@@ -15,7 +15,7 @@
         "canonical": true
       },
       "created": 1764131713,
-      "updated": 1764135914,
+      "updated": 1764135982,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
@@ -41,13 +41,13 @@
       "indent": 0,
       "location": "pages/item-90994303-b1b1-4e5f-8b51-2d62dbc49a12/index.html",
       "slug": "welcome",
-      "order": 1,
+      "order": 0,
       "parent": null,
       "title": "Welcome to info11",
       "description": "Welcome to your new HAX site! Click edit on the top bar to get started\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nINFORMATIKA KELAS XI \n\n\n  \n    Bagian materi 1 yang perlu dipelajari terlebih dahulu.\n\n\n  \n\n\n\n\n\n",
       "metadata": {
         "created": 1764131712,
-        "updated": 1764135887,
+        "updated": 1764135981,
         "published": true,
         "hideInMenu": false,
         "locked": false,
@@ -75,7 +75,7 @@
       "description": "Berpikir Kritis dan Dampak Sosial Informatika\nRevolusi industri 4.0 menyentuh hampir semua aspek dalam kehidupan sehari-hari. Dengan pemanfaatan Internet of things (IoT), automasi, teknologi cerdas d",
       "metadata": {
         "created": 1764133718,
-        "updated": 1764135913,
+        "updated": 1764135981,
         "images": {},
         "videos": {},
         "theme": {
@@ -108,7 +108,7 @@
       "description": "\n  \n\n\nBerfikir Kritis dan Pengambilan Keputusan di Era Ini\n\n\n\nRevolusi Industri 4.0 telah memberikan dampak transformatif pada\n  bidang pendidikan, menjanjikan peningkatan akses, kecepatan, dan pemer",
       "metadata": {
         "created": 1764133808,
-        "updated": 1764135887,
+        "updated": 1764135981,
         "images": {},
         "videos": {},
         "theme": {
@@ -141,7 +141,7 @@
       "description": "Daftar 10 Pertanyaan Berpikir Kritis (Elemen Berpikir)\nBerikut adalah pertanyaan yang disusun berdasarkan elemen berpikir kritis untuk\n  mengkaji penerapan informatika dalam pertanian:\n\n  Tujuan (Pur",
       "metadata": {
         "created": 1764133925,
-        "updated": 1764135887,
+        "updated": 1764135982,
         "images": {},
         "videos": {},
         "theme": {
@@ -168,13 +168,13 @@
       "indent": 0,
       "location": "pages/item-d8bb390a-40d5-44f3-b13a-0a2960be894b/index.html",
       "slug": "page",
-      "order": 0,
+      "order": 1,
       "parent": null,
       "title": "Page",
       "description": "",
       "metadata": {
         "created": 1764135863,
-        "updated": 1764135887,
+        "updated": 1764135981,
         "images": [],
         "videos": [],
         "published": true,
