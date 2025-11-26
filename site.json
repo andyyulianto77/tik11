@@ -15,7 +15,7 @@
         "canonical": true
       },
       "created": 1764131713,
-      "updated": 1764135887,
+      "updated": 1764135914,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
@@ -75,7 +75,7 @@
       "description": "Berpikir Kritis dan Dampak Sosial Informatika\nRevolusi industri 4.0 menyentuh hampir semua aspek dalam kehidupan sehari-hari. Dengan pemanfaatan Internet of things (IoT), automasi, teknologi cerdas d",
       "metadata": {
         "created": 1764133718,
-        "updated": 1764135887,
+        "updated": 1764135913,
         "images": {},
         "videos": {},
         "theme": {
@@ -86,7 +86,7 @@
           "key": "polaris-flex-theme"
         },
         "published": true,
-        "hideInMenu": false,
+        "hideInMenu": true,
         "locked": false,
         "readtime": 1,
         "pageType": "content",
