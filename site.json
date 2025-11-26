@@ -162,6 +162,22 @@
         "image": "files/tani.jpg",
         "status": ""
       }
+    },
+    {
+      "id": "item-d8bb390a-40d5-44f3-b13a-0a2960be894b",
+      "indent": 0,
+      "location": "pages/item-d8bb390a-40d5-44f3-b13a-0a2960be894b/index.html",
+      "slug": "page",
+      "order": 1,
+      "parent": null,
+      "title": "Page",
+      "description": "",
+      "metadata": {
+        "created": 1764135863,
+        "updated": 1764135863,
+        "images": [],
+        "videos": []
+      }
     }
   ]
 }
