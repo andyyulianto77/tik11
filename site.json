@@ -15,7 +15,7 @@
         "canonical": true
       },
       "created": 1764131713,
-      "updated": 1764135783,
+      "updated": 1764135825,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
@@ -132,16 +132,16 @@
     },
     {
       "id": "item-7c6d0152-8cdd-473d-a17c-5a28a7e17564",
-      "indent": 1,
+      "indent": 0,
       "location": "pages/item-7c6d0152-8cdd-473d-a17c-5a28a7e17564/index.html",
       "slug": "page-2",
       "order": 1,
       "parent": "item-e4e98285-ac0a-4a5a-bbc3-e431e7a30ed6",
-      "title": "Page",
+      "title": "Pertanyaan Berpikir Kritis (Elemen Berpikir)",
       "description": "Daftar 10 Pertanyaan Berpikir Kritis (Elemen Berpikir)\nBerikut adalah pertanyaan yang disusun berdasarkan elemen berpikir kritis untuk\n  mengkaji penerapan informatika dalam pertanian:\n\n  Tujuan (Pur",
       "metadata": {
         "created": 1764133925,
-        "updated": 1764135743,
+        "updated": 1764135825,
         "images": {},
         "videos": {},
         "theme": {
@@ -153,7 +153,7 @@
         },
         "published": true,
         "pageType": "content",
-        "hideInMenu": false,
+        "hideInMenu": true,
         "tags": "kritis",
         "accentColor": "deep-orange",
         "icon": "av:hearing",
