@@ -15,7 +15,7 @@
         "canonical": true
       },
       "created": 1764131713,
-      "updated": 1764136004,
+      "updated": 1764136025,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
@@ -171,15 +171,24 @@
       "order": 1,
       "parent": null,
       "title": "Page",
-      "description": "",
+      "description": "\n",
       "metadata": {
         "created": 1764135863,
-        "updated": 1764135981,
-        "images": [],
-        "videos": [],
+        "updated": 1764136025,
+        "images": {},
+        "videos": {},
         "published": true,
         "locked": false,
-        "status": ""
+        "status": "",
+        "theme": {
+          "element": "polaris-flex-theme",
+          "path": "@haxtheweb/polaris-theme/lib/polaris-flex-theme.js",
+          "name": "Polaris - Flex",
+          "thumbnail": "build/es6/node_modules/@haxtheweb/app-hax/lib/assets/images/PartyStyle.svg",
+          "key": "polaris-flex-theme"
+        },
+        "hideInMenu": false,
+        "readtime": 1
       }
     }
   ]
